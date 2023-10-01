@@ -1,1 +1,1 @@
-# typescript-express.js-calculator-rest-api
+# typescript-expressjs-calculator-rest-api
